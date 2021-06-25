@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/reactPracticeProject/static/css/main.538d6860.chunk.css",
-    "main.js": "/reactPracticeProject/static/js/main.895ba67c.chunk.js",
-    "main.js.map": "/reactPracticeProject/static/js/main.895ba67c.chunk.js.map",
+    "main.js": "/reactPracticeProject/static/js/main.07ba4fcb.chunk.js",
+    "main.js.map": "/reactPracticeProject/static/js/main.07ba4fcb.chunk.js.map",
     "runtime-main.js": "/reactPracticeProject/static/js/runtime-main.6c87e265.js",
     "runtime-main.js.map": "/reactPracticeProject/static/js/runtime-main.6c87e265.js.map",
-    "static/js/2.e0cc75f2.chunk.js": "/reactPracticeProject/static/js/2.e0cc75f2.chunk.js",
-    "static/js/2.e0cc75f2.chunk.js.map": "/reactPracticeProject/static/js/2.e0cc75f2.chunk.js.map",
+    "static/js/2.9278a0ba.chunk.js": "/reactPracticeProject/static/js/2.9278a0ba.chunk.js",
+    "static/js/2.9278a0ba.chunk.js.map": "/reactPracticeProject/static/js/2.9278a0ba.chunk.js.map",
     "index.html": "/reactPracticeProject/index.html",
     "static/css/main.538d6860.chunk.css.map": "/reactPracticeProject/static/css/main.538d6860.chunk.css.map",
-    "static/js/2.e0cc75f2.chunk.js.LICENSE.txt": "/reactPracticeProject/static/js/2.e0cc75f2.chunk.js.LICENSE.txt",
+    "static/js/2.9278a0ba.chunk.js.LICENSE.txt": "/reactPracticeProject/static/js/2.9278a0ba.chunk.js.LICENSE.txt",
     "static/media/AccountsIcon.b4de8676.svg": "/reactPracticeProject/static/media/AccountsIcon.b4de8676.svg",
     "static/media/AccountsIconActive.93364938.svg": "/reactPracticeProject/static/media/AccountsIconActive.93364938.svg",
     "static/media/DashboardIcon.be3360d8.svg": "/reactPracticeProject/static/media/DashboardIcon.be3360d8.svg",
@@ -26,8 +26,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.6c87e265.js",
-    "static/js/2.e0cc75f2.chunk.js",
+    "static/js/2.9278a0ba.chunk.js",
     "static/css/main.538d6860.chunk.css",
-    "static/js/main.895ba67c.chunk.js"
+    "static/js/main.07ba4fcb.chunk.js"
   ]
 }
