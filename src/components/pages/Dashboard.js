@@ -5,7 +5,7 @@ const useStyles = makeStyles((theme) => ({
   welcomeWrap: {
     background: "#fcda3514",
     border: "1px solid #f1edde",
-    minHeight: "100%",
+    minHeight: "100vh",
     justifyContent: "center",
     flexDirection: "column",
     alignItems: "center",
