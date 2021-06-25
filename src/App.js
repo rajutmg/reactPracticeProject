@@ -55,11 +55,7 @@ function App() {
             }
           >
             {checkPath()}
-            <div
-              className={
-                matchLogin || matchRegister ? undefined : classes.main_container
-              }
-            >
+            <div className={classes.main_container}>
               <div
                 className={
                   matchLogin || matchRegister ? undefined : classes.appBarSpacer
