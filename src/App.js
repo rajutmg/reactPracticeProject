@@ -23,6 +23,11 @@ const useStyles = makeStyles((theme) => ({
       ...theme.mixins.toolbar,
     },
   },
+  main_container: {
+    flex: 1,
+    display: "flex",
+    flexDirection: "column",
+  },
 }));
 
 function App() {
@@ -50,7 +55,11 @@ function App() {
             }
           >
             {checkPath()}
-            <div>
+            <div
+              className={
+                matchLogin || matchRegister ? undefined : classes.main_container
+              }
+            >
               <div
                 className={
                   matchLogin || matchRegister ? undefined : classes.appBarSpacer
